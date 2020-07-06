@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Email_Manager/static/js/main.1a7bc307.chunk.js",
+    "main.js.map": "/Email_Manager/static/js/main.1a7bc307.chunk.js.map",
+    "runtime-main.js": "/Email_Manager/static/js/runtime-main.cc6cd266.js",
+    "runtime-main.js.map": "/Email_Manager/static/js/runtime-main.cc6cd266.js.map",
+    "static/js/2.6a08b32a.chunk.js": "/Email_Manager/static/js/2.6a08b32a.chunk.js",
+    "static/js/2.6a08b32a.chunk.js.map": "/Email_Manager/static/js/2.6a08b32a.chunk.js.map",
+    "index.html": "/Email_Manager/index.html",
+    "precache-manifest.adb6b7f3ea9c4cfc145f8f055b094fd0.js": "/Email_Manager/precache-manifest.adb6b7f3ea9c4cfc145f8f055b094fd0.js",
+    "service-worker.js": "/Email_Manager/service-worker.js",
+    "static/js/2.6a08b32a.chunk.js.LICENSE.txt": "/Email_Manager/static/js/2.6a08b32a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc6cd266.js",
+    "static/js/2.6a08b32a.chunk.js",
+    "static/js/main.1a7bc307.chunk.js"
+  ]
+}
